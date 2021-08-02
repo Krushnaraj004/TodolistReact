@@ -1,0 +1,13 @@
+body
+{
+    background-color: crimson;
+}
+.Box1
+{
+    margin-left: 500px;
+    width: 200px;
+    height: 400px;
+    background-color:yellow;
+    border-radius: 10px;
+}
+
